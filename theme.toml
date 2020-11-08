@@ -8,8 +8,8 @@ features = ["blog", "disqus", "google analytics", "pagination", "rss", "sharing 
 min_version = 0.14
 
 [author]
-  name = "Andrew R. Jenkins"
-  homepage = "http://andrewrjenkins.com"
+  name = "Henry Cook"
+  homepage = "http://havingatinker.uk"
 
 # If porting an existing theme
 [original]
